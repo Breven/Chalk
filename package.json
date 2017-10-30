@@ -1,0 +1,23 @@
+{
+  "name": "brevenchalk",
+  "version": "1.0.0",
+  "description": "here is my chalk assignement",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Breven/Chalk.git"
+  },
+  "author": "breven hinckley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Breven/Chalk/issues"
+  },
+  "homepage": "https://github.com/Breven/Chalk#readme"
+}
